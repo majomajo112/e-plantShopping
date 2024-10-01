@@ -73,9 +73,7 @@ const handleCheckoutShopping = (e) => {
     </div>
   );
 };
-export const updateQuantity = (item, itemId, quantity)
-export const addItem = (item, itemId)
-export const removeItem = (item, itemId)
+
 export default CartItem;
 
 
